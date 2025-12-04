@@ -1,0 +1,5 @@
+{
+  "extends": "@react-native/typescript-config",
+  "include": ["**/*.ts", "**/*.tsx", "src/components/common/LoadingSpinner.js", "src/components/common/CustomEmpty.js", "src/components/common/SearchBar.js"],
+  "exclude": ["**/node_modules", "**/Pods"]
+}
